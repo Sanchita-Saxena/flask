@@ -133,12 +133,18 @@ footer p{
     margin: 55px auto;
     padding: 40px;
   }
+  
+  .output h1{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-decoration-style: solid white;
+    text-shadow: 2px 2px 4px #090909;
+  }
   .output h2{
-    font-size: 50px;
+    font-size: 28px;
     color: rgb(189, 188, 188);
     text-decoration-style: solid white;
     text-align: center;
-    text-shadow: 2px 2px 4px #090909;
   }
 
 #anchor{
